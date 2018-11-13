@@ -101,8 +101,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onPause() {
         super.onPause();
-
-
     }
 
     @Override
@@ -146,8 +144,6 @@ public class MainActivity extends AppCompatActivity {
             Button infoButt = findViewById(R.id.infoButt);
             infoButt.setVisibility(View.INVISIBLE);
         }
-
-
     }
 
     @Override
