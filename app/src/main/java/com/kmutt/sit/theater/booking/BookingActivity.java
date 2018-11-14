@@ -1,4 +1,8 @@
 package com.kmutt.sit.theater.booking;
 
-public class BookingActivity {
+import android.support.v7.app.AppCompatActivity;
+
+public class BookingActivity extends AppCompatActivity {
+
+
 }
